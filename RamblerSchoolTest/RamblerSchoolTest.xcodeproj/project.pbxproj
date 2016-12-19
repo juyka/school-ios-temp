@@ -316,6 +316,7 @@
 				2B3C0A031E07CFEC00E8117D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
